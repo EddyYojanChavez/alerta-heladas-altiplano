@@ -28,3 +28,4 @@ datos_heladas_diarios.csv
 # --- Archivos temporales ---
 *.log
 *.tmp
+cache_descarga/
